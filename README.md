@@ -21,4 +21,5 @@ See [LICENSE.md](LICENSE.md) for full details.
 ## Supported 3D Print Environment:
 Bambu Lab Carbon X1, ASA Filament, Wham Bam Flexi Plate with PEX
 
-
+## Background
+The Grosbeak Horn Amplifier was created by J'orge Garcia, with design informed by the research needs and goals of Benjamin M. Van Doren, Sara Lipshutz, and Madison Chudzik.
