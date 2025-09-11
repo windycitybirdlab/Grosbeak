@@ -1,5 +1,12 @@
-# Grosbeak
-An open-access horn microphone for bioacoustics specializing in capturing nocturnal flight calls of migratory birds.
+# Grosbeak Horn Amplifier
+An open-access passive horn amplifier for bioacoustics specializing in capturing nocturnal flight calls of migratory birds.
+
+## License Summary
+See [LICENSE.md](LICENSE.md) for full details.
+- **These slice files are free for non-commercial research and education.**  
+- **Commercial use requires a paid license.**  
+- **Files are provided as slice files only, not editable models.**  
+- **You must include attribution when sharing or publishing.**
 
 ## Build Materials
 -	3D-printed Horn, Seal, and Grill using ASA Filament
@@ -13,3 +20,5 @@ An open-access horn microphone for bioacoustics specializing in capturing noctur
 
 ## Supported 3D Print Environment:
 Bambu Lab Carbon X1, ASA Filament, Wham Bam Flexi Plate with PEX
+
+
