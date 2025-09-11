@@ -9,10 +9,7 @@ An open-access horn microphone for bioacoustics specializing in capturing noctur
 -	Heavy-duty UV-resistant Rubber Band
 
 ## Build Instructions
-- 
+-  
 
-## Supported 3D Print Settings
-Printer:  
-Bambu Lab Carbon X1
-Filament type:  
-ASA
+## Supported 3D Print Environment:
+Bambu Lab Carbon X1, ASA Filament, Wham Bam Flexi Plate with PEX
