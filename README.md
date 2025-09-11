@@ -1,5 +1,5 @@
 # Grosbeak Horn Amplifier
-An open-access passive horn amplifier for bioacoustics specializing in capturing nocturnal flight calls of migratory birds.
+An open-access passive horn amplifier specializing in capturing bird flight calls.
 
 ## License Summary
 See [LICENSE.md](LICENSE.md) for full details.
