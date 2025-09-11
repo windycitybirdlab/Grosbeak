@@ -60,8 +60,8 @@ Hobbyists and individual users are **not required to notify us**, though they ar
 
 Examples of commercial use:
 - Selling assembled units, kits, or derivative products,  
-- Offering paid services or consulting using the Amplifier,  
-- Integrating the design into proprietary systems.
+- Using the microphone as part of a business or commercial activity where it directly generates revenue,  
+- Selling or distributing units, kits, or derivative products as part of a commercial system or paid service.
 
 To use this design commercially, you **must obtain a paid commercial license** by contacting:
 
