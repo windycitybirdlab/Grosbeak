@@ -22,6 +22,9 @@ See [LICENSE.md](LICENSE.md) for full details.
 Bambu Lab Carbon X1, ASA Filament, Wham Bam Flexi Plate with PEX
 
 ## Background
-The Grosbeak Horn Amplifier was created by J'orge Garcia, with design informed by the research needs and goals of Benjamin M. Van Doren, Sara Lipshutz, and Madison Chudzik. Since its initial development, additional collaborators and field testers have provided feedback and ideas that have helped refine the design.
+The Grosbeak Horn Amplifier was created by J'orge Garcia, with design informed by the research needs and goals of Benjamin M. Van Doren, Sara Lipshutz, and Madison Chudzik.  
+
+Since its initial development, additional collaborators and field testers have provided feedback and ideas that have helped refine the design. Prominent testers include: 廖書躍 (Winnie Liao), Rafael Rueda Hernández  
+
 
 
