@@ -1,9 +1,9 @@
 
 # Grosbeak Horn Amplifier License
 
-**Copyright (c) 2025 Windy City Bird Lab**  
+**Copyright (c) 2024 Windy City Bird Lab**  
 
-The Grosbeak Horn Amplifier design files are released under a **dual-license model** to balance broad community access with sustainable funding for conservation and research.
+Grosbeak design files are released under a **dual-license model** to balance broad community access with sustainable funding for outreach, education, research, and development.
 
 **Patent Pending:**  
 The Grosbeak Horn Amplifier design is patent pending. Unauthorized commercial use may constitute patent infringement.
@@ -27,14 +27,14 @@ The Grosbeak Horn Amplifier design is patent pending. Unauthorized commercial us
 - You must include the following attribution in any publications, presentations, or redistributed files:
 
   ```
-  Grosbeak Horn Amplifier design by Windy City Bird Lab, used under license.
+  Grosbeak designed by Windy City Bird Lab, used under license.
   ```
 
 ---
 
 ## University and Research Use Notification
 
-If you are using the Grosbeak Horn Amplifier as part of a **university or institutional research project**, we ask that you **notify Windy City Bird Lab prior to deployment** by sending a brief email to:
+If you are using the Grosbeak as part of a **university or institutional research project**, we ask that you **notify Windy City Bird Lab prior to deployment** by sending a brief email to:
 
 **Email:** contact@windycitybirdlab.org
 
