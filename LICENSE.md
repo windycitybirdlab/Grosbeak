@@ -1,12 +1,12 @@
 
-# Grosbeak Horn Microphone License
+# Grosbeak Horn Amplifier License
 
 **Copyright (c) 2025 Windy City Bird Lab**  
 
-The Grosbeak Horn Microphone design files are released under a **dual-license model** to balance broad community access with sustainable funding for conservation and research.
+The Grosbeak Horn Amplifier design files are released under a **dual-license model** to balance broad community access with sustainable funding for conservation and research.
 
 **Patent Pending:**  
-The Grosbeak Horn Microphone design is patent pending. Unauthorized commercial use may constitute patent infringement.
+The Grosbeak Horn Amplifier design is patent pending. Unauthorized commercial use may constitute patent infringement.
 
 ---
 
@@ -19,7 +19,7 @@ The Grosbeak Horn Microphone design is patent pending. Unauthorized commercial u
 
 **You are free to:**
 - **Download and use** the provided slice files,  
-- **Build the microphone** for your own research, educational, or personal non-commercial purposes,  
+- **Build the Amplifier** for your own research, educational, or personal non-commercial purposes,  
 - **Share** unmodified slice files, provided this license is included.
 
 **Conditions:**
@@ -27,14 +27,14 @@ The Grosbeak Horn Microphone design is patent pending. Unauthorized commercial u
 - You must include the following attribution in any publications, presentations, or redistributed files:
 
   ```
-  Grosbeak Horn Microphone design by Windy City Bird Lab, used under license.
+  Grosbeak Horn Amplifier design by Windy City Bird Lab, used under license.
   ```
 
 ---
 
 ## University and Research Use Notification
 
-If you are using the Grosbeak Horn Microphone as part of a **university or institutional research project**, we ask that you **notify Windy City Bird Lab prior to deployment** by sending a brief email to:
+If you are using the Grosbeak Horn Amplifier as part of a **university or institutional research project**, we ask that you **notify Windy City Bird Lab prior to deployment** by sending a brief email to:
 
 **Email:** contact@windycitybirdlab.org
 
@@ -60,7 +60,7 @@ Hobbyists and individual users are **not required to notify us**, though they ar
 
 Examples of commercial use:
 - Selling assembled units, kits, or derivative products,  
-- Offering paid services or consulting using the microphone,  
+- Offering paid services or consulting using the Amplifier,  
 - Integrating the design into proprietary systems.
 
 To use this design commercially, you **must obtain a paid commercial license** by contacting:
